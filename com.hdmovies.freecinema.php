@@ -2,8 +2,8 @@
 //header('Content-type: application/json');
 
 $version = "7"; //versi yang berbeda akan membuat jendela popup update tampil
-$package = "com.hdmovies.freecinema"; //package sama akan membuka playstore yg sama, kl banned bisa diganti untuk mengarahkan update ke package baru
-$key = "039559ca2fd25c16255f516672a9adc2d6443e9f3454ef23"; //appodeal key
+$package = "com.moviepopcorn.larackaca21"; //package sama akan membuka playstore yg sama, kl banned bisa diganti untuk mengarahkan update ke package baru
+$key = "84d19e2e8aab5f8f44dd60c0d99ac82f147b8e106c2c8e53"; //appodeal key
 $host = "1mov.xyz, gdriveplayer.us, gdriveplayer.me, gdriveplayer.co, vidcloud9.com, vidnode.net, vidcloud9.com, gcloud.live, youtube.com, 123movie.cc, fvs.io, googlevideo.com, o0-3.com, o0-2.com, o0-4.com, o0-1.com";
 $image = "1"; /// set 0 untuk sebelum publish untuk off kan gambar, set 1 setelah publish
 
